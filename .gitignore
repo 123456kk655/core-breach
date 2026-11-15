@@ -1,0 +1,7 @@
+# Local build output: the hand-in directory main.ts writes, and the grader's copy.
+out/
+
+# Editor and OS noise.
+.DS_Store
+Thumbs.db
+*.swp
